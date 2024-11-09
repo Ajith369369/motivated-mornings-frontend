@@ -8,12 +8,17 @@ function Pricing() {
         <div className="row">
           <div className="col-md-2"></div>
           <div className="col-md-8">
+            <div className="text-center">
+              <h2>Start with a free trial. Change your plan anytime.</h2>
+            </div>
             <div>
               <div></div>
               <div></div>
             </div>
             <div className="d-flex justify-content-center align-items-center">
-              <button className="btn rounded-pill bg-dark text-light">View Plans Details</button>
+              <button className="btn rounded-pill bg-dark text-light">
+                View Plans Details
+              </button>
             </div>
           </div>
           <div className="col-md-2"></div>
