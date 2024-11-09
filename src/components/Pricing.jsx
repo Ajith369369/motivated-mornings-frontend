@@ -13,7 +13,7 @@ function Pricing() {
               <div></div>
             </div>
             <div className="d-flex justify-content-center align-items-center">
-              <button className="btn rounded-pill">View Plans Details</button>
+              <button className="btn rounded-pill bg-dark text-light">View Plans Details</button>
             </div>
           </div>
           <div className="col-md-2"></div>
