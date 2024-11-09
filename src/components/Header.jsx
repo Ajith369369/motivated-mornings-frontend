@@ -4,9 +4,14 @@ function Header() {
   return (
     <>
       <section id="header">
-      <section id="find" className="bg-dark py-2 d-flex justify-content-center align-items-center">
-        <p className="text-light m-0">Find out more about our Productivity Retreats</p>
-      </section>
+        <section
+          id="find"
+          className="bg-dark py-2 d-flex justify-content-center align-items-center"
+        >
+          <p className="text-light m-0">
+            Find out more about our Productivity Retreats
+          </p>
+        </section>
         <section id="navbar"></section>
         <section id="actually">
           <div className="row">
@@ -22,9 +27,9 @@ function Header() {
           <div className="row py-5 my-4">
             <div className="col-md-1"></div>
             <div className="col-md-5">
-            <img src="/src/assets/tired.png" alt="" />
+              <img src="/src/assets/tired.png" alt="" />
             </div>
-<div className="col-md-5"></div>
+            <div className="col-md-5"></div>
             <div className="col-md-1"></div>
           </div>
         </section>
