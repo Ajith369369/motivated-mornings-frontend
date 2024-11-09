@@ -10,9 +10,9 @@ function Footer() {
           <button className="btn rounded-pill bg-warning">Let's Talk</button>
           <div></div>
           <div>
-            <p>Email: hello@motivatedmornings.work</p>
-            <p>© 2020 Motivated Mornings, Inc. All rights reserved. Site by Knapsack.</p>
-            <p>guidelines privacy terms members</p>
+            <p className="text-light">Email: hello@motivatedmornings.work</p>
+            <p className="text-light">© 2020 Motivated Mornings, Inc. All rights reserved. Site by Knapsack.</p>
+            <p className="text-light">guidelines privacy terms members</p>
         </div>
           <div>
           <button className="btn rounded-pill bg-warning">Help</button>
