@@ -7,7 +7,7 @@ function Pricing() {
       <section id="trial">
         <div className="row">
           <div className="col-md-2"></div>
-          <div className="col-md-8">
+          <div className="col-md-8 my-5">
             <div className="text-center">
               <h2>Start with a free trial. Change your plan anytime.</h2>
             </div>
