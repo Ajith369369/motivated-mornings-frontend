@@ -4,6 +4,9 @@ function Header() {
   return (
     <>
       <section id="header">
+      <section id="find" className="bg-dark py-2 d-flex justify-content-center align-items-center">
+        <p className="text-light m-0">Find out more about our Productivity Retreats</p>
+      </section>
         <section id="navbar"></section>
         <section id="actually">
           <div className="row">
