@@ -3,10 +3,15 @@
 }
 
 #complete img {
-  height: 150px;
+  height: 125px;
   width: auto;
 }
 
 .complete-div {
   max-width: 400px;
+}
+
+#secrets img {
+  height: 600px;
+  width: auto;
 }
