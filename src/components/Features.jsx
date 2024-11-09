@@ -12,11 +12,43 @@ function Features() {
               you do the work.
             </h2>
           </div>
-          <div>
-            <div>
-              <img src="/src/assets/morning.png" alt="" />
-              <h4>Hi</h4>
-              <p>
+          <div className="d-flex flex-wrap justify-content-center align-items-center">
+            <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
+              <img className="flex-img" src="/src/assets/morning.png" alt="" />
+              <h4 className="my-2">Hi</h4>
+              <p className="m-0 text-center">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Laboriosam quibusdam quae blanditiis ad eius repellendus.
+              </p>
+            </div>
+            <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
+              <img className="flex-img" src="/src/assets/morning.png" alt="" />
+              <h4 className="my-2">Hi</h4>
+              <p className="m-0 text-center">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Laboriosam quibusdam quae blanditiis ad eius repellendus.
+              </p>
+            </div>
+            <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
+              <img className="flex-img" src="/src/assets/morning.png" alt="" />
+              <h4 className="my-2">Hi</h4>
+              <p className="m-0 text-center">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Laboriosam quibusdam quae blanditiis ad eius repellendus.
+              </p>
+            </div>
+            <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
+              <img className="flex-img" src="/src/assets/morning.png" alt="" />
+              <h4 className="my-2">Hi</h4>
+              <p className="m-0 text-center">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Laboriosam quibusdam quae blanditiis ad eius repellendus.
+              </p>
+            </div>
+            <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
+              <img className="flex-img" src="/src/assets/morning.png" alt="" />
+              <h4 className="my-2">Hi</h4>
+              <p className="m-0 text-center">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                 Laboriosam quibusdam quae blanditiis ad eius repellendus.
               </p>
