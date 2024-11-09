@@ -7,14 +7,15 @@ import Header from './components/Header'
 import Pricing from './components/Pricing'
 
 function App() {
-  
 
   return (
     <>
-      <Header/>
-      <Features/>
-      <Pricing/>
-      <Footer/>
+      <div id='main' className='d-flex flex-column justify-content-center align-items-center'>
+        <Header/>
+        <Features/>
+        <Pricing/>
+        <Footer/>
+      </div>
     </>
   )
 }
