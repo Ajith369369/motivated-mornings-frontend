@@ -12,7 +12,7 @@ function Features() {
               you do the work.
             </h2>
           </div>
-          <div className="d-flex flex-wrap justify-content-center align-items-center">
+          <div className="d-flex flex-wrap justify-content-center align-items-center mb-4">
             <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
               <img className="flex-img" src="/src/assets/morning.png" alt="" />
               <h4 className="my-2">Hi</h4>
