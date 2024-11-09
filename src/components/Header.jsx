@@ -2,7 +2,11 @@ import "./Header.css";
 
 function Header() {
   return (
-    <>Header</>
+    <>
+    <section id="navbar"></section>
+    <section id="actually"></section>
+    <section id="tired"></section>
+    </>
   )
 }
 
