@@ -19,12 +19,12 @@ function Header() {
           </div>
         </section>
         <section id="tired">
-          <div className="row">
+          <div className="row py-5 my-4">
             <div className="col-md-1"></div>
             <div className="col-md-5">
             <img src="/src/assets/tired.png" alt="" />
             </div>
-            <div className="col-md-5"></div>
+<div className="col-md-5"></div>
             <div className="col-md-1"></div>
           </div>
         </section>
