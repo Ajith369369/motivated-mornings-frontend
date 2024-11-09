@@ -27,9 +27,13 @@ function Pricing() {
       <section id="complete">
         <div className="row">
           <div className="col-md-2"></div>
-          <div className="col-md-8">
+          <div className="col-md-8 d-flex flex-wrap justify-content-center align-items-center">
             <img src="/src/assets/actually-complete.png" alt="" />
-            <div></div>
+            <div className="complete-div">
+              <h1>Actually complete that project.</h1>
+              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut placeat quidem vero, sit porro optio nam iure ipsa sint.</p>
+              <p>Lorem ipsum dolor, sit</p>
+            </div>
           </div>
           <div className="col-md-2"></div>
         </div>

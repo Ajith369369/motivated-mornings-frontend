@@ -1,3 +1,12 @@
-#trial {
+#trial, #complete {
   min-width: 100%;
+}
+
+#complete img {
+  height: 150px;
+  width: auto;
+}
+
+.complete-div {
+  max-width: 400px;
 }
