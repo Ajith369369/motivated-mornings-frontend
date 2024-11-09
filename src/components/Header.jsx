@@ -18,7 +18,9 @@ function Header() {
         <section id="tired">
           <div className="row">
             <div className="col-md-1"></div>
-            <div className="col-md-5"></div>
+            <div className="col-md-5">
+            <img src="/src/assets/tired.png" alt="" />
+            </div>
             <div className="col-md-5"></div>
             <div className="col-md-1"></div>
           </div>
