@@ -22,6 +22,6 @@
 }
 
 #secrets img {
-  height: 600px;
-  width: auto;
+  max-height: 600px;
+  width: 100%;
 }
