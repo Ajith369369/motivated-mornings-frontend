@@ -124,7 +124,34 @@ function Header() {
         <section id="better">
           <div className="row">
             <div className="col-md-1"></div>
-            <div className="col-md-4"></div>
+            <div className="col-md-4">
+            <div className="px-5">
+                <h1>Tired of not finishing that script?</h1>
+                <div className="py-5 ms-3">
+                  <div className="d-flex justify-content-start align-items-center my-3">
+                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <p className="m-0 ms-3">Hitting snooze</p>
+                  </div>
+                  <div className="d-flex justify-content-start align-items-center my-3">
+                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <p className="m-0 ms-3">Endless procrastinating</p>
+                  </div>
+                  <div className="d-flex justify-content-start align-items-center my-3">
+                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <p className="m-0 ms-3">Never finding the time</p>
+                  </div>
+                  <div className="d-flex justify-content-start align-items-center my-3">
+                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <p className="m-0 ms-3">Missing goals</p>
+                  </div>
+                </div>
+                <div className="d-flex justify-content-start align-items-center">
+                  <button className="btn rounded-pill bg-dark text-light">
+                    Start Your Free Trial
+                  </button>
+                </div>
+              </div>
+            </div>
             <div className="col-md-2"></div>
             <div className="col-md-4"></div>
             <div className="col-md-1"></div>
