@@ -2,6 +2,23 @@
   min-width: 100vw;
 }
 
+.curve {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+
+.top-curve {
+  top: 0;
+  transform: translateY(-50%); /* Aligns the top SVG to the edge */
+  z-index: 100;
+}
+
+.wave1 {
+  background-image: url('/src/assets/header-top-wave.svg');
+  background-repeat: no-repeat;
+}
+
 #navbar img {
   height: 55px;
   width: 55px;
