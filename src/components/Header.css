@@ -11,3 +11,7 @@
   max-height: 480px;
 }
 
+.tired-bullet {
+  max-width: 30px;
+  max-height: 30px;
+}
