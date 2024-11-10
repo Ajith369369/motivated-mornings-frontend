@@ -125,24 +125,24 @@ function Header() {
           <div className="row">
             <div className="col-md-1"></div>
             <div className="col-md-4">
-            <div className="px-5">
-                <h1>Tired of not finishing that script?</h1>
+              <div className="px-5">
+                <h1>There's a better way.</h1>
                 <div className="py-5 ms-3">
                   <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
-                    <p className="m-0 ms-3">Hitting snooze</p>
+                    <p className="m-0 ms-3">
+                      Experiencing your habits transform
+                    </p>
                   </div>
                   <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
-                    <p className="m-0 ms-3">Endless procrastinating</p>
+                    <p className="m-0 ms-3">
+                      Accessing tools, people, and expertise
+                    </p>
                   </div>
                   <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
-                    <p className="m-0 ms-3">Never finding the time</p>
-                  </div>
-                  <div className="d-flex justify-content-start align-items-center my-3">
-                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
-                    <p className="m-0 ms-3">Missing goals</p>
+                    <p className="m-0 ms-3">Seeing your work move forward</p>
                   </div>
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
