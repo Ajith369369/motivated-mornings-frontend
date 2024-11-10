@@ -1,4 +1,4 @@
-import { faQuoteLeft, faQuoteRight, faXmark } from "@fortawesome/free-solid-svg-icons";
+import { faCircleCheck, faQuoteLeft, faQuoteRight, faXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Header.css";
 
@@ -129,19 +129,19 @@ function Header() {
                 <h1>There's a better way.</h1>
                 <div className="py-5 ms-3">
                   <div className="d-flex justify-content-start align-items-center my-3">
-                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <FontAwesomeIcon icon={faCircleCheck} />
                     <p className="m-0 ms-3">
                       Experiencing your habits transform
                     </p>
                   </div>
                   <div className="d-flex justify-content-start align-items-center my-3">
-                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <FontAwesomeIcon icon={faCircleCheck} />
                     <p className="m-0 ms-3">
                       Accessing tools, people, and expertise
                     </p>
                   </div>
                   <div className="d-flex justify-content-start align-items-center my-3">
-                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <FontAwesomeIcon icon={faCircleCheck} />
                     <p className="m-0 ms-3">Seeing your work move forward</p>
                   </div>
                 </div>
