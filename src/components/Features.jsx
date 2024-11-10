@@ -7,8 +7,8 @@ function Features() {
         <div className="row mb-5">
           <div className="col-md-1"></div>
           <div className="col-md-10">
-            <div className="text-center">
-              <h2>
+            <div className="text-center px-5 mx-5">
+              <h2 className="px-5">
                 Motivated Mornings is a virtual coworking community proven to help
                 you do the work.
               </h2>
