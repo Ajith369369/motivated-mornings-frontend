@@ -32,6 +32,27 @@ function Header() {
                       <h6>mornings</h6>
                     </div>
                   </a>
+                  <div
+                    className="collapse navbar-collapse"
+                    id="navbarSupportedContent"
+                  >
+                    <ul className="navbar-nav me-auto mb-2">
+                      <li className="nav-item">
+                        <a
+                          className="nav-link text-dark"
+                          aria-current="page"
+                          href="#"
+                        >
+                          Home
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a className="nav-link" href="#">
+                          Link
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
                 </div>
               </nav>
             </div>
