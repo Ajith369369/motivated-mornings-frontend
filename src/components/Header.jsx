@@ -38,10 +38,10 @@ function Header() {
                     className="d-flex flex-wrap justify-content-center align-items-center"
                     id="navbarSupportedContent"
                   >
-                    <ul className="d-flex flex-wrap justify-content-center align-items-center">
+                    <ul className="m-0 d-flex flex-wrap justify-content-center align-items-center">
                       <li className="nav-item">
                         <a
-                          className="nav-link text-dark"
+                          className="nav-link"
                           href="#"
                         >
                           Who It's For

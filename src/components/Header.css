@@ -13,6 +13,11 @@
 
 #navbarSupportedContent ul {
   list-style-type: none;
+  padding: 0px;
+}
+
+#navbarSupportedContent ul li {
+  margin: 0px 10px;
 }
 
 #actually img, #tired img {
