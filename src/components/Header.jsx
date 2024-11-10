@@ -121,7 +121,7 @@ function Header() {
             <div className="col-md-1"></div>
           </div>
         </section>
-        <section id="better">
+        <section id="better" className="my-5">
           <div className="row">
             <div className="col-md-1"></div>
             <div className="col-md-4">
