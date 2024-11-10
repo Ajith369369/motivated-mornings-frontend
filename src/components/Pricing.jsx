@@ -12,18 +12,18 @@ function Pricing() {
               <h2>Start with a free trial. Change your plan anytime.</h2>
             </div>
             <div className="d-flex flex-wrap justify-content-center align-items-center">
-              <div className="pricing-item d-flex flex-column justify-content-center align-items-center py-5">
+              <div className="pricing-item d-flex flex-column justify-content-center align-items-center p-5">
                 <h1>MoMo</h1>
-                <h2>$49/mo.</h2>
-                <p>
+                <h2 className="mb-4">$49/mo.</h2>
+                <p className="text-center">
                   Get the motivation and accountability you need to get real
                   work done.
                 </p>
               </div>
-              <div className="pricing-item d-flex flex-column justify-content-center align-items-center py-5">
+              <div className="pricing-item d-flex flex-column justify-content-center align-items-center p-5">
                 <h1>MoMo Pro</h1>
-                <h2>$399/mo.</h2>
-                <p>
+                <h2 className="mb-4">$399/mo.</h2>
+                <p className="text-center">
                   Take it to the next level with your own personal productivity
                   coach.
                 </p>
