@@ -1,4 +1,4 @@
-import { faXmark } from "@fortawesome/free-solid-svg-icons";
+import { faQuoteLeft, faQuoteRight, faXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Header.css";
 
@@ -156,8 +156,8 @@ function Header() {
             <div className="col-md-4 d-flex justify-content-center align-items-center">
               <div>
                 <h1 className="text-center">
-                  Get more done before 9am than you used to get done all day.
-                </h1>
+                <FontAwesomeIcon icon={faQuoteLeft} className="me-2"/>Get more done before 9am than you used to get done all day.
+                <FontAwesomeIcon icon={faQuoteRight} className="ms-2"/></h1>
               </div>
             </div>
             <div className="col-md-1"></div>
