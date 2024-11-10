@@ -22,11 +22,11 @@ function Header() {
           </p>
         </section>
         <div className="wave1">
-          <section id="navbar" className="my-4">
+          <section id="navbar" className="mb-4">
             <div className="row">
               <div className="col-md-1"></div>
               <div className="col-md-10 px-5">
-                <nav className="navbar bg-body-tertiary px-5">
+                <nav className="navbar px-5">
                   <div className="container-fluid d-flex flex-wrap justify-content-center align-items-center">
                     <a
                       className="navbar-brand d-flex justify-content-center align-items-center"
