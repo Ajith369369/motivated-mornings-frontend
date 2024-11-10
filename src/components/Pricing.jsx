@@ -5,7 +5,7 @@ import "./Pricing.css";
 function Pricing() {
   return (
     <>
-      <section id="trial">
+      <section id="trial" className="wave3">
         <div className="row">
           <div className="col-md-2"></div>
           <div className="col-md-8 my-5">

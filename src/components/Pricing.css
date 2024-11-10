@@ -2,6 +2,12 @@
   min-width: 100%;
 }
 
+.wave3 {
+  background-image: url('/src/assets/pricing-top-wave.svg');
+  background-repeat: no-repeat;
+  background-size: 100vw auto;
+}
+
 #complete img {
   height: 125px;
   width: auto;
