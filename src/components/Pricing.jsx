@@ -45,11 +45,11 @@ function Pricing() {
             <img src="/src/assets/actually-complete.png" alt="" className="mx-5"/>
             <div className="complete-div mx-5">
               <h1>Actually complete that project.</h1>
-              <p>
+              <p className="mb-4">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut
                 placeat quidem vero, sit porro optio nam iure ipsa sint.
               </p>
-              <p>Lorem ipsum dolor, sit</p>
+              <p><u>Learn More →</u></p>
             </div>
           </div>
           <div className="col-md-2"></div>
