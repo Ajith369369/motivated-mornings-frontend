@@ -12,7 +12,25 @@ function Header() {
             Find out more about our Productivity Retreats
           </p>
         </section>
-        <section id="navbar"></section>
+        <section id="navbar">
+          <nav className="navbar bg-body-tertiary">
+            <div className="container-fluid">
+              <a className="navbar-brand" href="#">
+                <img
+                  src="/src/assets/actually-complete.png"
+                  alt="Logo"
+                  width="30"
+                  height="24"
+                  className="d-inline-block align-text-top"
+                />
+                <div>
+                  <h2>MOTIVATED</h2>
+                  <h6>mornings</h6>
+                </div>
+              </a>
+            </div>
+          </nav>
+        </section>
         <section id="actually">
           <div className="row">
             <div className="col-md-1"></div>
