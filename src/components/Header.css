@@ -7,7 +7,7 @@
   width: 55px;
 }
 
-#actually img {
-  height: 160px;
+#actually img, #tired img {
+  max-height: 480px;
 }
 
