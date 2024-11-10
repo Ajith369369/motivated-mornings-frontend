@@ -93,20 +93,20 @@ function Header() {
             <div className="col-md-5 d-flex flex-column justify-content-center align-items-left px-5">
               <div className="px-5">
                 <h1>Tired of not finishing that script?</h1>
-                <div>
-                  <div className="d-flex justify-content-start align-items-center">
+                <div className="py-5 ms-3">
+                  <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
                     <p className="m-0 ms-3">Hitting snooze</p>
                   </div>
-                  <div className="d-flex justify-content-start align-items-center">
+                  <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
                     <p className="m-0 ms-3">Endless procrastinating</p>
                   </div>
-                  <div className="d-flex justify-content-start align-items-center">
+                  <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
                     <p className="m-0 ms-3">Never finding the time</p>
                   </div>
-                  <div className="d-flex justify-content-start align-items-center">
+                  <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
                     <p className="m-0 ms-3">Missing goals</p>
                   </div>
