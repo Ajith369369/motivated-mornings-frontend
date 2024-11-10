@@ -37,3 +37,7 @@
   max-height: 600px;
   width: 100%;
 }
+
+#secrets button {
+  white-space: nowrap;
+}
