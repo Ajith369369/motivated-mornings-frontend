@@ -1,4 +1,4 @@
-import { faCircleCheck, faQuoteLeft, faQuoteRight, faXmark } from "@fortawesome/free-solid-svg-icons";
+import { faCircleCheck, faPlay, faQuoteLeft, faQuoteRight, faXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Header.css";
 
@@ -72,8 +72,8 @@ function Header() {
                   you start and finish the work.
                 </p>
                 <div className="d-flex justify-content-start align-items-center">
-                  <button className="btn rounded-pill bg-dark text-light">
-                    See How It Works
+                  <button className="btn rounded-pill bg-dark text-light p-3">
+                  <FontAwesomeIcon icon={faPlay} className="me-2"/>See How It Works
                   </button>
                 </div>
               </div>
