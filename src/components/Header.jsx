@@ -116,7 +116,7 @@ function Header() {
             </div>
             <div className="col-md-5 d-flex flex-column justify-content-center align-items-left px-5">
               <div className="px-5">
-                <h1>Tired of not finishing that script?</h1>
+                <h1 className="buttonFntWght">Tired of not finishing that script?</h1>
                 <div className="py-5 ms-3">
                   <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
@@ -150,7 +150,7 @@ function Header() {
             <div className="col-md-1"></div>
             <div className="col-md-4">
               <div className="px-5">
-                <h2>There's a better way.</h2>
+                <h2 className="buttonFntWght">There's a better way.</h2>
                 <div className="py-5 ms-3">
                   <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faCircleCheck} />
@@ -177,9 +177,9 @@ function Header() {
               </div>
             </div>
             <div className="col-md-2"></div>
-            <div className="col-md-4 d-flex justify-content-center align-items-center">
-              <div>
-                <h2 className="text-center">
+            <div className="col-md-4 d-flex justify-content-center align-items-center px-4">
+              <div className="p-5">
+                <h2 className="text-center buttonFntWght">
                   <FontAwesomeIcon icon={faQuoteLeft} className="quotes me-2" />
                   Get more done before 9am than you used to get done all day.
                   <FontAwesomeIcon

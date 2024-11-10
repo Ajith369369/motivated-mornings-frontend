@@ -101,7 +101,7 @@ function Pricing() {
                 />
               </div>
               <div className="d-flex justify-content-start align-items-center my-3">
-                <button className="btn rounded-pill bg-dark text-light p-3 buttonFntWght">
+                <button className="btn rounded-pill bg-dark text-light p-3">
                   <FontAwesomeIcon icon={faDownLong} className="me-2" />
                   DOWNLOAD THE GUIDE
                 </button>
