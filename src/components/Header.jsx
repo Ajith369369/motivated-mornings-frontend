@@ -1,3 +1,5 @@
+import { faXmark } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Header.css";
 
 function Header() {
@@ -93,10 +95,20 @@ function Header() {
                 <h1>Tired of not finishing that script?</h1>
                 <div>
                   <div className="d-flex justify-content-start align-items-center">
-                  <h3 className="tired-bullet bg-warning m-0">×</h3>
-                    <p className="m-0 ms-3">
-                      Hitting snooze
-                    </p>
+                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <p className="m-0 ms-3">Hitting snooze</p>
+                  </div>
+                  <div className="d-flex justify-content-start align-items-center">
+                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <p className="m-0 ms-3">Endless</p>
+                  </div>
+                  <div className="d-flex justify-content-start align-items-center">
+                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <p className="m-0 ms-3">Hitting snooze</p>
+                  </div>
+                  <div className="d-flex justify-content-start align-items-center">
+                    <FontAwesomeIcon icon={faXmark} className="bg-warning" />
+                    <p className="m-0 ms-3">Hitting snooze</p>
                   </div>
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
