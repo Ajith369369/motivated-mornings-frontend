@@ -12,7 +12,7 @@ function Header() {
             Find out more about our Productivity Retreats
           </p>
         </section>
-        <section id="navbar">
+        <section id="navbar" className="mb-5">
           <div className="row">
             <div className="col-md-1"></div>
             <div className="col-md-10">
@@ -59,13 +59,13 @@ function Header() {
             <div className="col-md-1"></div>
           </div>
         </section>
-        <section id="actually">
+        <section id="actually my-5">
           <div className="row">
             <div className="col-md-1"></div>
             <div className="col-md-5 d-flex flex-column justify-content-center align-items-left pe-5">
               <h1>Actually do the work.</h1>
               <p>Accountability, community, and productivity coaching to help you start and finish the work.</p>
-              <div className="d-flex justify-content-left align-items-center">
+              <div className="d-flex justify-content-start align-items-center">
               <button className="btn rounded-pill bg-dark text-light">
                 See How It Works
               </button>
