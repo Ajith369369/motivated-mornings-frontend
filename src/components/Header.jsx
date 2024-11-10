@@ -147,9 +147,9 @@ function Header() {
         </section>
         <section id="better" className="wave2 my-5">
           <div className="row my-5 py-5">
-            <div className="col-md-1"></div>
+            <div className="col-md-2"></div>
             <div className="col-md-4">
-              <div className="px-5">
+              <div className="ps-5">
                 <h2 className="buttonFntWght">There's a better way.</h2>
                 <div className="py-5 ms-3">
                   <div className="d-flex justify-content-start align-items-center my-3">
@@ -177,7 +177,7 @@ function Header() {
               </div>
             </div>
             <div className="col-md-2"></div>
-            <div className="col-md-4 d-flex justify-content-center align-items-center px-4">
+            <div className="col-md-3 d-flex justify-content-center align-items-center px-4">
               <div className="p-5">
                 <h2 className="text-center buttonFntWght">
                   <FontAwesomeIcon icon={faQuoteLeft} className="quotes me-2" />
