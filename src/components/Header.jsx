@@ -15,13 +15,13 @@ function Header() {
         <section id="navbar">
           <nav className="navbar bg-body-tertiary">
             <div className="container-fluid">
-              <a className="navbar-brand" href="#">
+              <a className="navbar-brand d-flex justify-content-center align-items-center" href="#">
                 <img
                   src="/src/assets/actually-complete.png"
                   alt="Logo"
                   className="d-inline-block align-text-top"
                 />
-                <div>
+                <div className="ms-1">
                   <h4>MOTIVATED</h4>
                   <h6>mornings</h6>
                 </div>
