@@ -100,15 +100,15 @@ function Header() {
                   </div>
                   <div className="d-flex justify-content-start align-items-center">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
-                    <p className="m-0 ms-3">Endless</p>
+                    <p className="m-0 ms-3">Endless procrastinating</p>
                   </div>
                   <div className="d-flex justify-content-start align-items-center">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
-                    <p className="m-0 ms-3">Hitting snooze</p>
+                    <p className="m-0 ms-3">Never finding the time</p>
                   </div>
                   <div className="d-flex justify-content-start align-items-center">
                     <FontAwesomeIcon icon={faXmark} className="bg-warning" />
-                    <p className="m-0 ms-3">Hitting snooze</p>
+                    <p className="m-0 ms-3">Missing goals</p>
                   </div>
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
