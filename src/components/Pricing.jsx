@@ -100,7 +100,7 @@ function Pricing() {
                   className="form-control py-3 my-2"
                 />
               </div>
-              <div className="d-flex justify-content-start align-items-center">
+              <div className="d-flex justify-content-start align-items-center my-3">
                 <button className="btn rounded-pill bg-dark text-light">
                   <FontAwesomeIcon icon={faDownLong} className="me-2" />
                   DOWNLOAD THE GUIDE
