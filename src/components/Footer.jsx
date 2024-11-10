@@ -10,7 +10,7 @@ import { faCircleQuestion } from "@fortawesome/free-solid-svg-icons";
 function Footer() {
   return (
     <>
-      <section id="footer" className="bg-dark mt-5 pt-5">
+      <section id="footer" className="bg-dark mt-5 pt-5 pb-2">
         <div className="row">
           <div className="col-md-2"></div>
           <div className="col-md-8 d-flex flex-column justify-content-center align-items-center">
