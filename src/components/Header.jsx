@@ -153,7 +153,13 @@ function Header() {
               </div>
             </div>
             <div className="col-md-2"></div>
-            <div className="col-md-4"></div>
+            <div className="col-md-4">
+              <div>
+                <h1>
+                  Get more done before 9am than you used to get done all day.
+                </h1>
+              </div>
+            </div>
             <div className="col-md-1"></div>
           </div>
         </section>
