@@ -76,18 +76,34 @@ function Pricing() {
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
                   <FontAwesomeIcon icon={faCheck} />
-                  <p className="m-0 ms-3">
-                    Make massive progress
-                  </p>
+                  <p className="m-0 ms-3">Make massive progress</p>
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
                   <FontAwesomeIcon icon={faCheck} />
                   <p className="m-0 ms-3">Actually get the work done</p>
                 </div>
               </div>
+              <div className="d-flex flex-column justify-content-center align-items-center">
+                <input
+                  type="text"
+                  placeholder="First Name"
+                  className="form-control"
+                />
+                <input
+                  type="text"
+                  placeholder="Last Name"
+                  className="form-control"
+                />
+                <input
+                  type="text"
+                  placeholder="Email Address"
+                  className="form-control"
+                />
+              </div>
               <div className="d-flex justify-content-start align-items-center">
                 <button className="btn rounded-pill bg-dark text-light">
-                <FontAwesomeIcon icon={faDownLong} className="me-2"/>DOWNLOAD THE GUIDE
+                  <FontAwesomeIcon icon={faDownLong} className="me-2" />
+                  DOWNLOAD THE GUIDE
                 </button>
               </div>
             </div>
