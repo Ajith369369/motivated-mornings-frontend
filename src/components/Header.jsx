@@ -112,7 +112,7 @@ function Header() {
                   </div>
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
-                  <button className="btn rounded-pill bg-dark text-light">
+                  <button className="btn rounded-pill bg-dark text-light p-3">
                     Start Your Free Trial
                   </button>
                 </div>
@@ -146,7 +146,7 @@ function Header() {
                   </div>
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
-                  <button className="btn rounded-pill bg-dark text-light">
+                  <button className="btn rounded-pill bg-dark text-light p-3">
                     Start Your Free Trial
                   </button>
                 </div>
