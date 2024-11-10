@@ -145,7 +145,7 @@ function Header() {
             <div className="col-md-1"></div>
           </div>
         </section>
-        <section id="better" className="my-5">
+        <section id="better" className="wave2 my-5">
           <div className="row my-5 py-5">
             <div className="col-md-1"></div>
             <div className="col-md-4">
