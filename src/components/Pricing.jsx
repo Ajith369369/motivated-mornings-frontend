@@ -39,11 +39,11 @@ function Pricing() {
         </div>
       </section>
       <section id="complete" className="my-5">
-        <div className="row">
+        <div className="row my-5">
           <div className="col-md-2"></div>
-          <div className="col-md-8 d-flex flex-wrap justify-content-center align-items-center">
-            <img src="/src/assets/actually-complete.png" alt="" className="mx-4"/>
-            <div className="complete-div mx-4">
+          <div className="col-md-8 d-flex flex-wrap justify-content-center align-items-start">
+            <img src="/src/assets/actually-complete.png" alt="" className="mx-5"/>
+            <div className="complete-div mx-5">
               <h1>Actually complete that project.</h1>
               <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut
