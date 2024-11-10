@@ -1,7 +1,7 @@
 import {
   faFacebookF,
   faInstagram,
-  faLinkedin,
+  faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Footer.css";
@@ -21,12 +21,12 @@ function Footer() {
             <button className="btn rounded-pill bg-warning p-4">
               Let's Talk
             </button>
-            <div className="d-flex flex-wrap justify-content-center align-items-center my-4">
-              <FontAwesomeIcon icon={faInstagram} className="text-light" />
-              <FontAwesomeIcon icon={faFacebookF} className="text-light" />
-              <FontAwesomeIcon icon={faLinkedin} className="text-light" />
+            <div className="d-flex flex-wrap justify-content-center align-items-center my-4 social-icons">
+              <FontAwesomeIcon icon={faInstagram} className="mx-2"/>
+              <FontAwesomeIcon icon={faFacebookF} className="mx-2" />
+              <FontAwesomeIcon icon={faLinkedinIn} className="mx-2" />
             </div>
-            <div>
+            <div className="my-5">
               <p className="text-light text-center mb-1">
                 Email: hello@motivatedmornings.work
               </p>
