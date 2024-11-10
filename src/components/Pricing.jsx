@@ -1,4 +1,4 @@
-import { faCheck } from "@fortawesome/free-solid-svg-icons";
+import { faCheck, faDownLong } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Pricing.css";
 
@@ -87,7 +87,7 @@ function Pricing() {
               </div>
               <div className="d-flex justify-content-start align-items-center">
                 <button className="btn rounded-pill bg-dark text-light">
-                  Start Your Free Trial
+                <FontAwesomeIcon icon={faDownLong} className="me-2"/>DOWNLOAD THE GUIDE
                 </button>
               </div>
             </div>
