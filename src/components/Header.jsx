@@ -37,7 +37,7 @@ function Header() {
                         alt="Logo"
                         className="d-inline-block align-text-top"
                       />
-                      <div className="ms-1">
+                      <div className="logo-heading ms-1">
                         <h4 className="m-0">MOTIVATED</h4>
                         <h6 className="m-0">mornings</h6>
                       </div>

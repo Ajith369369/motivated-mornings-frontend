@@ -1,6 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
+  font-family: "Roboto", sans-serif;
 }
 
 :root {
@@ -10,5 +11,8 @@
   /* Yellow - #EDC444 */
 }
 
+p {
+  font-weight: 500;
+}
 
 
