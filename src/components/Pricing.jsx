@@ -62,7 +62,7 @@ function Pricing() {
           <div className="col-md-2"></div>
         </div>
       </section>
-      <section id="secrets">
+      <section id="secrets" className="wave4">
         <div className="row m-0 my-5 py-5">
           <div className="col-md-2"></div>
           <div className="col-md-3">

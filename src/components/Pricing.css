@@ -23,6 +23,12 @@
   border-radius: 25px;
 }
 
+.wave4 {
+  background-image: url('/src/assets/pricing-bottom-wave.svg');
+  background-repeat: no-repeat;
+  background-size: 100vw auto;
+}
+
 #secrets {
   min-width: 100%;
 }
