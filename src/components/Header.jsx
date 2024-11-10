@@ -73,7 +73,7 @@ function Header() {
                           </a>
                         </li>
                       </ul>
-                      <button className="btn rounded-pill bg-dark text-light p-2 ms-3">
+                      <button className="btn rounded-pill bg-dark text-light p-2 ms-3 buttonFntWght">
                         Start Your Free Trial
                       </button>
                     </div>
@@ -94,7 +94,7 @@ function Header() {
                     you start and finish the work.
                   </p>
                   <div className="d-flex justify-content-start align-items-center">
-                    <button className="btn rounded-pill bg-dark text-light p-3">
+                    <button className="btn rounded-pill bg-dark text-light p-3 buttonFntWght">
                       <FontAwesomeIcon icon={faPlay} className="me-2" />
                       See How It Works
                     </button>
@@ -136,7 +136,7 @@ function Header() {
                   </div>
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
-                  <button className="btn rounded-pill bg-dark text-light p-3">
+                  <button className="btn rounded-pill bg-dark text-light p-3 buttonFntWght">
                     Start Your Free Trial
                   </button>
                 </div>
@@ -170,7 +170,7 @@ function Header() {
                   </div>
                 </div>
                 <div className="d-flex justify-content-start align-items-center">
-                  <button className="btn rounded-pill bg-dark text-light p-3">
+                  <button className="btn rounded-pill bg-dark text-light p-3 buttonFntWght">
                     Start Your Free Trial
                   </button>
                 </div>

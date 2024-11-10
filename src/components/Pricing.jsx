@@ -31,7 +31,7 @@ function Pricing() {
               </div>
             </div>
             <div className="d-flex justify-content-center align-items-center">
-              <button className="btn rounded-pill bg-dark text-light p-3">
+              <button className="btn rounded-pill bg-dark text-light p-3 buttonFntWght">
                 View Plans Details
               </button>
             </div>
@@ -101,7 +101,7 @@ function Pricing() {
                 />
               </div>
               <div className="d-flex justify-content-start align-items-center my-3">
-                <button className="btn rounded-pill bg-dark text-light p-3">
+                <button className="btn rounded-pill bg-dark text-light p-3 buttonFntWght">
                   <FontAwesomeIcon icon={faDownLong} className="me-2" />
                   DOWNLOAD THE GUIDE
                 </button>
