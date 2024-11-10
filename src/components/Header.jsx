@@ -13,21 +13,30 @@ function Header() {
           </p>
         </section>
         <section id="navbar">
-          <nav className="navbar bg-body-tertiary">
-            <div className="container-fluid">
-              <a className="navbar-brand d-flex justify-content-center align-items-center" href="#">
-                <img
-                  src="/src/assets/actually-complete.png"
-                  alt="Logo"
-                  className="d-inline-block align-text-top"
-                />
-                <div className="ms-1">
-                  <h4>MOTIVATED</h4>
-                  <h6>mornings</h6>
+          <div className="row">
+            <div className="col-md-1"></div>
+            <div className="col-md-10">
+              <nav className="navbar bg-body-tertiary">
+                <div className="container-fluid">
+                  <a
+                    className="navbar-brand d-flex justify-content-center align-items-center"
+                    href="#"
+                  >
+                    <img
+                      src="/src/assets/actually-complete.png"
+                      alt="Logo"
+                      className="d-inline-block align-text-top"
+                    />
+                    <div className="ms-1">
+                      <h4>MOTIVATED</h4>
+                      <h6>mornings</h6>
+                    </div>
+                  </a>
                 </div>
-              </a>
+              </nav>
             </div>
-          </nav>
+            <div className="col-md-1"></div>
+          </div>
         </section>
         <section id="actually">
           <div className="row">
