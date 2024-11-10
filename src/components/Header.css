@@ -2,6 +2,11 @@
   min-width: 100vw;
 }
 
+#navbar img {
+  height: 55px;
+  width: 55px;
+}
+
 img {
   width: 100%;
 }

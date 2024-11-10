@@ -19,12 +19,10 @@ function Header() {
                 <img
                   src="/src/assets/actually-complete.png"
                   alt="Logo"
-                  width="30"
-                  height="24"
                   className="d-inline-block align-text-top"
                 />
                 <div>
-                  <h2>MOTIVATED</h2>
+                  <h4>MOTIVATED</h4>
                   <h6>mornings</h6>
                 </div>
               </a>
