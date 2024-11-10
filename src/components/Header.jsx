@@ -122,11 +122,11 @@ function Header() {
           </div>
         </section>
         <section id="better" className="my-5">
-          <div className="row">
+          <div className="row my-5 py-5">
             <div className="col-md-1"></div>
             <div className="col-md-4">
               <div className="px-5">
-                <h1>There's a better way.</h1>
+                <h2>There's a better way.</h2>
                 <div className="py-5 ms-3">
                   <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faCircleCheck} />
@@ -155,9 +155,9 @@ function Header() {
             <div className="col-md-2"></div>
             <div className="col-md-4 d-flex justify-content-center align-items-center">
               <div>
-                <h1 className="text-center">
+                <h2 className="text-center">
                 <FontAwesomeIcon icon={faQuoteLeft} className="quotes me-2"/>Get more done before 9am than you used to get done all day.
-                <FontAwesomeIcon icon={faQuoteRight} className="quotes ms-2"/></h1>
+                <FontAwesomeIcon icon={faQuoteRight} className="quotes ms-2"/></h2>
               </div>
             </div>
             <div className="col-md-1"></div>
