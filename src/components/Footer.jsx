@@ -24,11 +24,10 @@ function Footer() {
               guidelines privacy terms members
             </p>
           </div>
-          
         </div>
         <div className="d-flex justify-content-end align-items-center">
-            <button className="btn rounded-pill bg-warning me-4">Help</button>
-          </div>
+          <button className="btn rounded-pill bg-warning me-4">Help</button>
+        </div>
       </section>
     </>
   );
