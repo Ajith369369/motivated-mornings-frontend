@@ -151,7 +151,7 @@ function Header() {
             <div className="col-md-4">
               <div className="ps-5">
                 <h2 className="buttonFntWght">There's a better way.</h2>
-                <div className="py-5 ms-3">
+                <div className="py-4 ms-3">
                   <div className="d-flex justify-content-start align-items-center my-3">
                     <FontAwesomeIcon icon={faCircleCheck} />
                     <p className="m-0 ms-3">
