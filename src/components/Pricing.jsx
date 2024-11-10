@@ -11,9 +11,23 @@ function Pricing() {
             <div className="text-center">
               <h2>Start with a free trial. Change your plan anytime.</h2>
             </div>
-            <div>
-              <div></div>
-              <div></div>
+            <div className="d-flex flex-wrap justify-content-center align-items-center">
+              <div className="pricing-item d-flex flex-column justify-content-center align-items-center py-5">
+                <h1>MoMo</h1>
+                <h2>$49/mo.</h2>
+                <p>
+                  Get the motivation and accountability you need to get real
+                  work done.
+                </p>
+              </div>
+              <div className="pricing-item d-flex flex-column justify-content-center align-items-center py-5">
+                <h1>MoMo Pro</h1>
+                <h2>$399/mo.</h2>
+                <p>
+                  Take it to the next level with your own personal productivity
+                  coach.
+                </p>
+              </div>
             </div>
             <div className="d-flex justify-content-center align-items-center">
               <button className="btn rounded-pill bg-dark text-light">
@@ -31,7 +45,10 @@ function Pricing() {
             <img src="/src/assets/actually-complete.png" alt="" />
             <div className="complete-div">
               <h1>Actually complete that project.</h1>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut placeat quidem vero, sit porro optio nam iure ipsa sint.</p>
+              <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut
+                placeat quidem vero, sit porro optio nam iure ipsa sint.
+              </p>
               <p>Lorem ipsum dolor, sit</p>
             </div>
           </div>
