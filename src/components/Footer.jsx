@@ -5,6 +5,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Footer.css";
+import { faCircleQuestion } from "@fortawesome/free-solid-svg-icons";
 
 function Footer() {
   return (
@@ -22,11 +23,11 @@ function Footer() {
               Let's Talk
             </button>
             <div className="d-flex flex-wrap justify-content-center align-items-center my-4 social-icons">
-              <FontAwesomeIcon icon={faInstagram} className="mx-2"/>
+              <FontAwesomeIcon icon={faInstagram} className="mx-2" />
               <FontAwesomeIcon icon={faFacebookF} className="mx-2" />
               <FontAwesomeIcon icon={faLinkedinIn} className="mx-2" />
             </div>
-            <div className="my-5">
+            <div className="mt-5">
               <p className="text-light text-center mb-1">
                 Email: hello@motivatedmornings.work
               </p>
@@ -35,14 +36,14 @@ function Footer() {
                 Knapsack.
               </p>
               <p className="text-light text-center mb-1">
-                guidelines privacy terms members
+                <u>guidelines</u> <u>privacy</u> <u>terms</u> <u>members</u>
               </p>
             </div>
           </div>
           <div className="col-md-2"></div>
         </div>
         <div className="d-flex justify-content-end align-items-center">
-          <button className="btn rounded-pill bg-warning me-4">Help</button>
+          <button className="btn rounded-pill bg-warning me-4"><FontAwesomeIcon icon={faCircleQuestion} className="me-2"/>Help</button>
         </div>
       </section>
     </>
