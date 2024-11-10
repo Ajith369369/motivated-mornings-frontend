@@ -14,11 +14,11 @@ function Header() {
             Find out more about our Productivity Retreats →
           </p>
         </section>
-        <section id="navbar" className="mb-5">
+        <section id="navbar" className="my-4">
           <div className="row">
             <div className="col-md-1"></div>
-            <div className="col-md-10">
-              <nav className="navbar bg-body-tertiary">
+            <div className="col-md-10 px-5">
+              <nav className="navbar bg-body-tertiary px-5">
                 <div className="container-fluid d-flex flex-wrap justify-content-center align-items-center">
                   <a
                     className="navbar-brand d-flex justify-content-center align-items-center"
@@ -35,7 +35,7 @@ function Header() {
                     </div>
                   </a>
                   <div
-                    className="d-flex flex-wrap justify-content-center align-items-center"
+                    className="d-flex flex-wrap justify-content-end align-items-center"
                     id="navbarSupportedContent"
                   >
                     <ul className="m-0 d-flex flex-wrap justify-content-evenly align-items-center">
@@ -68,8 +68,8 @@ function Header() {
                         </a>
                       </li>
                     </ul>
-                    <button className="btn rounded-pill bg-dark text-light p-3 ms-3">
-                    Get Start Your Free Trial
+                    <button className="btn rounded-pill bg-dark text-light p-2 ms-3">
+                    Start Your Free Trial
                     </button>
                   </div>
                 </div>
