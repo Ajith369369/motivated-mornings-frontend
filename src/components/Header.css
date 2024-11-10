@@ -7,6 +7,14 @@
   width: 55px;
 }
 
+#navbarSupportedContent {
+  flex: 1;
+}
+
+#navbarSupportedContent ul {
+  list-style-type: none;
+}
+
 #actually img, #tired img {
   max-height: 480px;
 }

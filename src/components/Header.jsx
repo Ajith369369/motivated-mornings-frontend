@@ -1,4 +1,4 @@
-import { faCircleCheck, faPlay, faQuoteLeft, faQuoteRight, faXmark } from "@fortawesome/free-solid-svg-icons";
+import { faCircleCheck, faPlay, faQuoteLeft, faQuoteRight, faUser, faXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Header.css";
 
@@ -19,7 +19,7 @@ function Header() {
             <div className="col-md-1"></div>
             <div className="col-md-10">
               <nav className="navbar bg-body-tertiary">
-                <div className="container-fluid">
+                <div className="container-fluid d-flex flex-wrap justify-content-center align-items-center">
                   <a
                     className="navbar-brand d-flex justify-content-center align-items-center"
                     href="#"
@@ -30,30 +30,47 @@ function Header() {
                       className="d-inline-block align-text-top"
                     />
                     <div className="ms-1">
-                      <h4>MOTIVATED</h4>
-                      <h6>mornings</h6>
+                      <h4 className="m-0">MOTIVATED</h4>
+                      <h6 className="m-0">mornings</h6>
                     </div>
                   </a>
                   <div
-                    className="collapse navbar-collapse"
+                    className="d-flex flex-wrap justify-content-center align-items-center"
                     id="navbarSupportedContent"
                   >
-                    <ul className="navbar-nav me-auto mb-2">
+                    <ul className="d-flex flex-wrap justify-content-center align-items-center">
                       <li className="nav-item">
                         <a
                           className="nav-link text-dark"
-                          aria-current="page"
                           href="#"
                         >
-                          Home
+                          Who It's For
                         </a>
                       </li>
                       <li className="nav-item">
                         <a className="nav-link" href="#">
-                          Link
+                          About
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a className="nav-link" href="#">
+                          FAQ
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a className="nav-link" href="#">
+                          Blog
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a className="nav-link" href="#">
+                        <FontAwesomeIcon icon={faUser} />
                         </a>
                       </li>
                     </ul>
+                    <button className="btn rounded-pill bg-dark text-light p-3">
+                    Get Start Your Free Trial
+                    </button>
                   </div>
                 </div>
               </nav>
