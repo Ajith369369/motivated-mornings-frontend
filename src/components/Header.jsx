@@ -38,7 +38,7 @@ function Header() {
                     className="d-flex flex-wrap justify-content-center align-items-center"
                     id="navbarSupportedContent"
                   >
-                    <ul className="m-0 d-flex flex-wrap justify-content-center align-items-center">
+                    <ul className="m-0 d-flex flex-wrap justify-content-evenly align-items-center">
                       <li className="nav-item">
                         <a
                           className="nav-link"
@@ -68,7 +68,7 @@ function Header() {
                         </a>
                       </li>
                     </ul>
-                    <button className="btn rounded-pill bg-dark text-light p-3">
+                    <button className="btn rounded-pill bg-dark text-light p-3 ms-3">
                     Get Start Your Free Trial
                     </button>
                   </div>
