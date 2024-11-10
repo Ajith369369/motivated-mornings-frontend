@@ -1,5 +1,6 @@
-import React from "react";
+import { faCheck } from "@fortawesome/free-solid-svg-icons";
 import "./Pricing.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function Pricing() {
   return (
@@ -58,7 +59,34 @@ function Pricing() {
       <section id="secrets">
         <div className="row m-0 my-5 py-5">
           <div className="col-md-2"></div>
-          <div className="col-md-3"></div>
+          <div className="col-md-3">
+          <div className="px-5">
+                <h1>There's a better way.</h1>
+                <div className="py-5 ms-3">
+                  <div className="d-flex justify-content-start align-items-center my-3">
+                    <FontAwesomeIcon icon={faCheck} />
+                    <p className="m-0 ms-3">
+                      Experiencing your habits transform
+                    </p>
+                  </div>
+                  <div className="d-flex justify-content-start align-items-center my-3">
+                    <FontAwesomeIcon icon={faCheck} />
+                    <p className="m-0 ms-3">
+                      Accessing tools, people, and expertise
+                    </p>
+                  </div>
+                  <div className="d-flex justify-content-start align-items-center my-3">
+                    <FontAwesomeIcon icon={faCheck} />
+                    <p className="m-0 ms-3">Seeing your work move forward</p>
+                  </div>
+                </div>
+                <div className="d-flex justify-content-start align-items-center">
+                  <button className="btn rounded-pill bg-dark text-light">
+                    Start Your Free Trial
+                  </button>
+                </div>
+              </div>
+          </div>
           <div className="col-md-5 px-4">
             <img src="/src/assets/8-secrets.png" alt="" />
           </div>
