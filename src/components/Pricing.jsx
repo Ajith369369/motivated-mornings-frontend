@@ -83,21 +83,21 @@ function Pricing() {
                   <p className="m-0 ms-3">Actually get the work done</p>
                 </div>
               </div>
-              <div className="d-flex flex-column justify-content-center align-items-center">
+              <div className="d-flex flex-column justify-content-center align-items-center my-2">
                 <input
                   type="text"
                   placeholder="First Name"
-                  className="form-control"
+                  className="form-control py-3 my-2"
                 />
                 <input
                   type="text"
                   placeholder="Last Name"
-                  className="form-control"
+                  className="form-control py-3 my-2"
                 />
                 <input
                   type="text"
                   placeholder="Email Address"
-                  className="form-control"
+                  className="form-control py-3 my-2"
                 />
               </div>
               <div className="d-flex justify-content-start align-items-center">
