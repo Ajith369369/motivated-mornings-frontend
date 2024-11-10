@@ -16,7 +16,7 @@ function Features() {
             <div className="d-flex flex-wrap justify-content-center align-items-center mb-4">
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
                 <img className="flex-img" src="/src/assets/morning.png" alt="" />
-                <h6 className="my-2">Morning Kick-Off Calls</h6>
+                <h6 className="my-4">Morning Kick-Off Calls</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                   Laboriosam quibusdam quae blanditiis ad eius repellendus.
@@ -24,7 +24,7 @@ function Features() {
               </div>
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
                 <img className="flex-img" src="/src/assets/virtual.png" alt="" />
-                <h6 className="my-2">Virtual Coworking</h6>
+                <h6 className="my-4">Virtual Coworking</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                   Laboriosam quibusdam quae blanditiis ad eius repellendus.
@@ -32,7 +32,7 @@ function Features() {
               </div>
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
                 <img className="flex-img" src="/src/assets/private.png" alt="" />
-                <h6 className="my-2">Private Slack Group</h6>
+                <h6 className="my-4">Private Slack Group</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                   Laboriosam quibusdam quae blanditiis ad eius repellendus.
@@ -44,7 +44,7 @@ function Features() {
                   src="/src/assets/productivity.png"
                   alt=""
                 />
-                <h6 className="my-2">Productivity Coaching Sessions*</h6>
+                <h6 className="my-4">Productivity Coaching Sessions*</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                   Laboriosam quibusdam quae blanditiis ad eius repellendus.
@@ -52,7 +52,7 @@ function Features() {
               </div>
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
                 <img className="flex-img" src="/src/assets/tailored.png" alt="" />
-                <h6 className="my-2">Tailored Action Plans*</h6>
+                <h6 className="my-4">Tailored Action Plans*</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                   Laboriosam quibusdam quae blanditiis ad eius repellendus.
