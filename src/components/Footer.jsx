@@ -12,8 +12,10 @@ function Footer() {
             We'll help you determine if Motivated Mornings is the right fit for
             you and answer any of your questions.
           </p>
-          <button className="btn rounded-pill bg-warning">Let's Talk</button>
-          <div></div>
+          <button className="btn rounded-pill bg-warning p-4">Let's Talk</button>
+          <div>
+            
+          </div>
           <div>
             <p className="text-light text-center mb-1">
               Email: hello@motivatedmornings.work
