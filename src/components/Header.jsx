@@ -62,7 +62,7 @@ function Header() {
         <section id="actually my-5">
           <div className="row">
             <div className="col-md-1"></div>
-            <div className="col-md-5 d-flex flex-column justify-content-center align-items-left pe-5">
+            <div className="col-md-5 d-flex flex-column justify-content-center align-items-left px-5">
               <div className="px-5">
                 <h1>Actually do the work.</h1>
                 <p>
