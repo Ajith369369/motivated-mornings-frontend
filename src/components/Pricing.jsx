@@ -13,7 +13,7 @@ function Pricing() {
               <h2>Start with a free trial. Change your plan anytime.</h2>
             </div>
             <div className="d-flex flex-wrap justify-content-center align-items-center">
-              <div className="pricing-item d-flex flex-column justify-content-center align-items-center p-5">
+              <div className="pricing-item d-flex flex-column justify-content-center align-items-center p-5 bg-light">
                 <h1>MoMo</h1>
                 <h2 className="mb-4">$49/mo.</h2>
                 <p className="text-center">
@@ -21,7 +21,7 @@ function Pricing() {
                   work done.
                 </p>
               </div>
-              <div className="pricing-item d-flex flex-column justify-content-center align-items-center p-5">
+              <div className="pricing-item d-flex flex-column justify-content-center align-items-center p-5 bg-light">
                 <h1>MoMo Pro</h1>
                 <h2 className="mb-4">$399/mo.</h2>
                 <p className="text-center">
