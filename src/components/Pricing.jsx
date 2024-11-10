@@ -57,12 +57,12 @@ function Pricing() {
       </section>
       <section id="secrets">
         <div className="row">
-          <div className="col-md-1"></div>
-          <div className="col-md-4"></div>
-          <div className="col-md-6">
+          <div className="col-md-2"></div>
+          <div className="col-md-3"></div>
+          <div className="col-md-5 px-4">
             <img src="/src/assets/8-secrets.png" alt="" />
           </div>
-          <div className="col-md-1"></div>
+          <div className="col-md-2"></div>
         </div>
       </section>
     </>
