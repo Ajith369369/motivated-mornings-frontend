@@ -63,6 +63,7 @@
 @media (max-width: 576px) {
   .wave3 {
     background-image: url('/assets/pricing-top-wave-small.svg');
+    background-size: cover;
   }
 
   .wave4 {
