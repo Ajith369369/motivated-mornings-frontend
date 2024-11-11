@@ -102,7 +102,7 @@ function Header() {
                 </div>
               </div>
               <div className="col-xs-6 col-md-5 d-flex justify-content-center align-items-center py-3">
-                <img src="/src/assets/actually.png" alt="" />
+                <img src="/assets/actually.png" alt="" />
               </div>
               <div className="col-xs-0 col-md-1"></div>
             </div>
@@ -112,7 +112,7 @@ function Header() {
           <div className="row py-5 my-4">
             <div className="col-xs-0 col-md-1"></div>
             <div className="col-xs-6 col-md-5 d-flex justify-content-center align-items-center py-3">
-              <img src="/src/assets/tired.png" alt="" />
+              <img src="/assets/tired.png" alt="" />
             </div>
             <div className="col-xs-6 col-md-5 d-flex flex-column justify-content-center align-items-left px-5">
               <div className="px-5">
