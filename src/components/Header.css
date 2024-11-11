@@ -59,6 +59,10 @@
   max-height: 480px;
 }
 
+#actually img {
+  max-width: 100%;
+}
+
 .wave2 {
   background-image: url('/src/assets/header-bottom-wave.svg');
   background-repeat: no-repeat;

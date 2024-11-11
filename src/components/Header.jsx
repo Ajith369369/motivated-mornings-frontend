@@ -24,8 +24,8 @@ function Header() {
         <div className="wave1">
           <section id="navbar" className="mb-4">
             <div className="row">
-              <div className="col-md-1"></div>
-              <div className="col-md-10 px-5">
+              <div className="col-xs-0 col-md-1"></div>
+              <div className="col-xs-12 col-md-10 px-5">
                 <nav className="navbar px-5">
                   <div className="container-fluid d-flex flex-wrap justify-content-center align-items-center">
                     <a
@@ -80,13 +80,13 @@ function Header() {
                   </div>
                 </nav>
               </div>
-              <div className="col-md-1"></div>
+              <div className="col-xs-0 col-md-1"></div>
             </div>
           </section>
           <section id="actually" className="my-5">
             <div className="row">
-              <div className="col-md-1"></div>
-              <div className="col-md-5 d-flex flex-column justify-content-center align-items-left px-5">
+              <div className="col-xs-0 col-md-1"></div>
+              <div className="col-xs-6 col-md-5 d-flex flex-column justify-content-center align-items-left px-5">
                 <div className="px-5">
                   <h1>Actually do the work.</h1>
                   <p>
@@ -101,20 +101,20 @@ function Header() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-5">
+              <div className="col-xs-6 col-md-5">
                 <img src="/src/assets/actually.png" alt="" />
               </div>
-              <div className="col-md-1"></div>
+              <div className="col-xs-0 col-md-1"></div>
             </div>
           </section>
         </div>
         <section id="tired">
           <div className="row py-5 my-4">
-            <div className="col-md-1"></div>
-            <div className="col-md-5">
+            <div className="col-xs-0 col-md-1"></div>
+            <div className="col-xs-6 col-md-5">
               <img src="/src/assets/tired.png" alt="" />
             </div>
-            <div className="col-md-5 d-flex flex-column justify-content-center align-items-left px-5">
+            <div className="col-xs-6 col-md-5 d-flex flex-column justify-content-center align-items-left px-5">
               <div className="px-5">
                 <h1 className="buttonFntWght">Tired of not finishing that script?</h1>
                 <div className="py-5 ms-3">
@@ -142,13 +142,13 @@ function Header() {
                 </div>
               </div>
             </div>
-            <div className="col-md-1"></div>
+            <div className="col-xs-0 col-md-1"></div>
           </div>
         </section>
         <section id="better" className="wave2 my-5">
           <div className="row my-5 py-5">
-            <div className="col-md-2"></div>
-            <div className="col-md-4">
+            <div className="col-xs-0 col-md-2"></div>
+            <div className="col-xs-6 col-md-4">
               <div className="ps-5">
                 <h2 className="buttonFntWght">There's a better way.</h2>
                 <div className="py-4 ms-3">
@@ -176,8 +176,8 @@ function Header() {
                 </div>
               </div>
             </div>
-            <div className="col-md-2"></div>
-            <div className="col-md-3 d-flex justify-content-center align-items-center">
+            <div className="col-xs-0 col-md-2"></div>
+            <div className="col-xs-6 col-md-3 d-flex justify-content-center align-items-center">
               <div>
                 <h2 className="text-center buttonFntWght">
                   <FontAwesomeIcon icon={faQuoteLeft} className="quotes me-2" />
@@ -189,7 +189,7 @@ function Header() {
                 </h2>
               </div>
             </div>
-            <div className="col-md-1"></div>
+            <div className="col-xs-0 col-md-1"></div>
           </div>
         </section>
 
