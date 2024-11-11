@@ -15,7 +15,7 @@ function Pricing() {
             <div className="d-flex flex-wrap justify-content-center align-items-center">
               <div className="pricing-item d-flex flex-column justify-content-center align-items-center p-5 bg-light">
                 <h1>MoMo</h1>
-                <h2 className="mb-4">$49/mo.</h2>
+                <p className="mb-4">$49/mo.</p>
                 <p className="text-center">
                   Get the motivation and accountability you need to get real
                   work done.
@@ -23,7 +23,7 @@ function Pricing() {
               </div>
               <div className="pricing-item d-flex flex-column justify-content-center align-items-center p-5 bg-light">
                 <h1>MoMo Pro</h1>
-                <h2 className="mb-4">$399/mo.</h2>
+                <p className="mb-4">$399/mo.</p>
                 <p className="text-center">
                   Take it to the next level with your own personal productivity
                   coach.

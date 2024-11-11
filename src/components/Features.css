@@ -6,3 +6,11 @@
   height: 160px;
   width: auto;
 }
+
+#features h6 {
+  font-weight: 600;
+}
+
+#features p {
+  font-weight: 400;
+}
