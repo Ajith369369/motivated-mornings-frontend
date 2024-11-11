@@ -59,3 +59,14 @@
 #secrets button {
   white-space: nowrap;
 }
+
+@media (max-width: 576px) {
+  .wave3 {
+    background-image: url('/assets/pricing-top-wave-small.svg');
+  }
+
+  .wave4 {
+    background-image: url('/assets/pricing-bottom-wave-small.svg');
+    background-size: cover;
+  }
+}
