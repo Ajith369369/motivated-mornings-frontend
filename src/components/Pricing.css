@@ -8,7 +8,7 @@
 }
 
 .wave3 {
-  background-image: url("/src/assets/pricing-top-wave.svg");
+  background-image: url("/assets/pricing-top-wave.svg");
   background-repeat: no-repeat;
   background-size: 100vw auto;
 }
@@ -42,7 +42,7 @@
 }
 
 .wave4 {
-  background-image: url("/src/assets/pricing-bottom-wave.svg");
+  background-image: url("/assets/pricing-bottom-wave.svg");
   background-repeat: no-repeat;
   background-size: 100vw auto;
 }
