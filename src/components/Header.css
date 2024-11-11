@@ -63,4 +63,8 @@
   .wave1 {
     background-image: url('/assets/header-top-wave-small.svg');
   }
+
+  .wave2 {
+    background-image: url('/assets/header-bottom-wave-small.svg');
+  }
 }
