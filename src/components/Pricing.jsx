@@ -49,7 +49,7 @@ function Pricing() {
               className="mx-5"
             />
             <div className="complete-div mx-5">
-              <h1>Actually complete that project.</h1>
+              <h1 className="buttonFntWght">Actually complete that project.</h1>
               <p className="mb-4">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut
                 placeat quidem vero, sit porro optio nam iure ipsa sint.
@@ -68,7 +68,7 @@ function Pricing() {
           <div className="col-md-3">
             <div className="px-5">
               <h6>FREE GUIDE</h6>
-              <h2>8 Secrets To Doing Work That Matters </h2>
+              <h2 className="buttonFntWght">8 Secrets To Doing Work That Matters </h2>
               <div className="py-3">
                 <div className="d-flex justify-content-start align-items-center">
                   <FontAwesomeIcon icon={faCheck} />
