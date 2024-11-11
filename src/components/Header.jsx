@@ -33,7 +33,7 @@ function Header() {
                       href="#"
                     >
                       <img
-                        src="/src/assets/actually-complete.png"
+                        src="../assets/actually-complete.png"
                         alt="Logo"
                         className="d-inline-block align-text-top"
                       />
