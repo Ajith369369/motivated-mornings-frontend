@@ -7,8 +7,8 @@ function Pricing() {
     <>
       <section id="trial" className="wave3">
         <div className="row">
-          <div className="col-md-2"></div>
-          <div className="col-md-8 my-5">
+          <div className="col-xs-0 col-md-2"></div>
+          <div className="col-xs-12 col-md-8 my-5">
             <div className="text-center">
               <h2>Start with a free trial. Change your plan anytime.</h2>
             </div>
@@ -36,13 +36,13 @@ function Pricing() {
               </button>
             </div>
           </div>
-          <div className="col-md-2"></div>
+          <div className="col-xs-0 col-md-2"></div>
         </div>
       </section>
       <section id="complete" className="my-5">
         <div className="row my-5">
-          <div className="col-md-2"></div>
-          <div className="col-md-8 d-flex flex-wrap justify-content-center align-items-start">
+          <div className="col-xs-0 col-md-2"></div>
+          <div className="col-xs-12 col-md-8 d-flex flex-wrap justify-content-center align-items-start">
             <img
               src="/src/assets/actually-complete.png"
               alt=""
@@ -59,13 +59,13 @@ function Pricing() {
               </p>
             </div>
           </div>
-          <div className="col-md-2"></div>
+          <div className="col-xs-0 col-md-2"></div>
         </div>
       </section>
       <section id="secrets" className="wave4">
         <div className="row m-0 my-5 py-5">
-          <div className="col-md-2"></div>
-          <div className="col-md-3">
+          <div className="col-xs-0 col-md-2"></div>
+          <div className="col-xs-12 col-md-3">
             <div className="px-5">
               <h6>FREE GUIDE</h6>
               <h2 className="buttonFntWght">8 Secrets To Doing Work That Matters </h2>
@@ -108,10 +108,10 @@ function Pricing() {
               </div>
             </div>
           </div>
-          <div className="col-md-5 px-4">
+          <div className="col-xs-12 col-md-5 px-4">
             <img src="/src/assets/8-secrets.png" alt="" />
           </div>
-          <div className="col-md-2"></div>
+          <div className="col-xs-0 col-md-2"></div>
         </div>
       </section>
     </>

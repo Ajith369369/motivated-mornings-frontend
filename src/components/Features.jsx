@@ -5,8 +5,8 @@ function Features() {
     <>
       <section id="features" className="my-5">
         <div className="row mb-5">
-          <div className="col-md-1"></div>
-          <div className="col-md-10">
+          <div className="col-xs-0 col-md-1"></div>
+          <div className="col-xs-12 col-md-10">
             <div className="text-center px-5 mx-5">
               <h2 className="px-5 buttonFntWght">
                 Motivated Mornings is a virtual coworking community proven to help
@@ -63,7 +63,7 @@ function Features() {
               *Available exclusively with the Pro plan
             </p>
           </div>
-          <div className="col-md-1"></div>
+          <div className="col-xs-0 col-md-1"></div>
         </div>
       </section>
     </>
