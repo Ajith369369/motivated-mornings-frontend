@@ -44,7 +44,7 @@ function Pricing() {
           <div className="col-xs-0 col-md-2"></div>
           <div className="col-xs-12 col-md-8 d-flex flex-wrap justify-content-center align-items-start">
             <img
-              src="/src/assets/actually-complete.png"
+              src="/assets/actually-complete.png"
               alt=""
               className="mx-5"
             />
@@ -109,7 +109,7 @@ function Pricing() {
             </div>
           </div>
           <div className="col-xs-12 col-md-5 px-4">
-            <img src="/src/assets/8-secrets.png" alt="" />
+            <img src="/assets/8-secrets.png" alt="" />
           </div>
           <div className="col-xs-0 col-md-2"></div>
         </div>

@@ -15,7 +15,7 @@ function Features() {
             </div>
             <div className="d-flex flex-wrap justify-content-center align-items-center mb-4">
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
-                <img className="flex-img" src="/src/assets/morning.png" alt="" />
+                <img className="flex-img" src="/assets/morning.png" alt="" />
                 <h6 className="my-4">Morning Kick-Off Calls</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
@@ -23,7 +23,7 @@ function Features() {
                 </p>
               </div>
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
-                <img className="flex-img" src="/src/assets/virtual.png" alt="" />
+                <img className="flex-img" src="/assets/virtual.png" alt="" />
                 <h6 className="my-4">Virtual Coworking</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
@@ -31,7 +31,7 @@ function Features() {
                 </p>
               </div>
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
-                <img className="flex-img" src="/src/assets/private.png" alt="" />
+                <img className="flex-img" src="/assets/private.png" alt="" />
                 <h6 className="my-4">Private Slack Group</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
@@ -41,7 +41,7 @@ function Features() {
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
                 <img
                   className="flex-img"
-                  src="/src/assets/productivity.png"
+                  src="/assets/productivity.png"
                   alt=""
                 />
                 <h6 className="my-4">Productivity Coaching Sessions*</h6>
@@ -51,7 +51,7 @@ function Features() {
                 </p>
               </div>
               <div className="flex-items d-flex flex-column justify-content-center align-items-center m-3">
-                <img className="flex-img" src="/src/assets/tailored.png" alt="" />
+                <img className="flex-img" src="/assets/tailored.png" alt="" />
                 <h6 className="my-4">Tailored Action Plans*</h6>
                 <p className="m-0 text-center">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
