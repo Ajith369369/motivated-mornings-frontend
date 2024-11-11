@@ -178,7 +178,7 @@ function Header() {
             </div>
             <div className="col-xs-0 col-md-2"></div>
             <div className="col-xs-6 col-md-3 d-flex justify-content-center align-items-center py-3">
-              <div>
+              <div className="px-3">
                 <h2 className="text-center buttonFntWght">
                   <FontAwesomeIcon icon={faQuoteLeft} className="quotes me-2" />
                   Get more done before 9am than you used to get done all day.
