@@ -57,9 +57,6 @@
 
 #actually img, #tired img {
   max-height: 480px;
-}
-
-#actually img {
   max-width: 100%;
 }
 
