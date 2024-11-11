@@ -15,7 +15,7 @@
 } */
 
 .wave1 {
-  background-image: url('/src/assets/header-top-wave.svg');
+  background-image: url('/assets/header-top-wave.svg');
   background-repeat: no-repeat;
   background-size: 100vw auto;
 }
@@ -61,7 +61,7 @@
 }
 
 .wave2 {
-  background-image: url('/src/assets/header-bottom-wave.svg');
+  background-image: url('/assets/header-bottom-wave.svg');
   background-repeat: no-repeat;
   background-size: 100vw auto;
 }
