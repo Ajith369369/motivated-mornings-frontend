@@ -2,18 +2,6 @@
   min-width: 100vw;
 }
 
-/* .curve {
-  position: absolute;
-  width: 100%;
-  left: 0;
-}
-
-.top-curve {
-  top: 0;
-  transform: translateY(-50%);
-  z-index: 100;
-} */
-
 .wave1 {
   background-image: url('/assets/header-top-wave.svg');
   background-repeat: no-repeat;
@@ -71,4 +59,8 @@
   margin-bottom: 11px;
 }
 
-
+@media (max-width: 576px) {
+  .wave1 {
+    background-image: url('/assets/header-top-wave-small.svg');
+  }
+}
